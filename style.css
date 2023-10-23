@@ -98,13 +98,13 @@ html, body {
 
 .chandersen {
   margin-top: -45vh;
-  margin-left: 90vh;
+  margin-left: 53vw;
 
 
 }
 
 #visibleText {
-  margin-left: 90vh;
+  margin-left: 53vw;
   max-width: 80vh;
 }
 
@@ -116,7 +116,7 @@ html, body {
 }
 
 .mere {
-  margin-left: 90vh;
+  margin-left: 53vw;
   background-color:non;
   padding-left: 4px;
   padding-right: 4px;
@@ -376,16 +376,33 @@ img {
  
   .tætbillede {
     margin-left: 60vw; /* Margin fra venstre kant */
-    margin-top: -50vh; /* Margin fra toppen med negativ værdi */
+    margin-top: -70vh; /* Margin fra toppen med negativ værdi */
     margin-bottom: 15vh;
     width:30vw ;
 }
 
-hr {
-  margin-top: 1.5vw;
+.program2 {
+margin-top: -14vh;
+  }
+.program3 {
+  margin-top: -14vh;
 }
 
+.chandersen {
+  margin-top:-65vh ;
 }
+#hiddenText {
+  margin-top: 1vh;
+}
+
+.sted1{
+  margin-top: -22vh;
+}
+
+.kos {
+  margin-top: -60vh;
+}
+}         
 
 @media screen and (max-width: 960px){
   /* CSS-regler for skærme, der er 768px eller smalle */
